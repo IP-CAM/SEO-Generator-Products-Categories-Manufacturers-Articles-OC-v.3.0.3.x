@@ -1,6 +1,6 @@
 # 3x.generator OpenCart 3.x SEO URL
 
-
+Module 3.h the generator is designed to automatically generate SEO parameters for goods, categories, manufacturers, articles on the template given by the user. When generating the URL, uniqueness is monitored. In the case of a coincidence, at the end, a 3-valuable random alphanumeric code is added at the end. The module adds to goods, categories, articles an additional parameter “meta tag H1”. For manufacturers, the SEO data tab with the parameters of similar goods, categories, articles is added. The module removes the H1 tag from the name of the store and replaces the H2 tag with H1 in the name of goods, categories, manufacturers, articles. For manufacturers, you can set a description. To exclude page doubles, it is recommended to pre -set the SEO Pro module. The module was developed and tested on the default template Opencart 3.0.3.2, PHP 7.3, MySQL - 8.0
 
 **Руководство пользователя 
 модуля «3.х Генератор Free» 
